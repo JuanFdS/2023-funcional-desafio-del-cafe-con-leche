@@ -1,6 +1,5 @@
 module Library where
-import PdePreludat hiding (foldr, sum, elem, all)
-import Prelude (foldr, sum, elem, all, Foldable(..))
+import PdePreludat hiding (($))
 
 -- Desafío, implementar la función aplicación, que recibe una función y un valor y aplica el valor como parámetro a la función.
 -- El desafío es que hay que implementarlo sin escribir parámetros, ni usar lambdas ni definir funciones auxiliares.
