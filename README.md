@@ -12,3 +12,4 @@ Quienes logren resolver los desaf√≠os va a tener un premio que puede ser un caf√
 
 - Gabor Delli Carri, Christian Nicolas
 - Sanchez, Tomas
+- Ortiz, Dante
