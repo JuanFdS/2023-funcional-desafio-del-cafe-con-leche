@@ -1,5 +1,6 @@
 module Spec where
 
+import qualified Prelude as P
 import PdePreludat hiding (($))
 import Library
 import Test.Hspec
