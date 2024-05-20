@@ -14,3 +14,4 @@ Quienes logren resolver los desafíos va a tener un premio que puede ser un caf�
 - Sanchez, Tomas
 - Ortiz, Dante
 - Jiun Ming Hsu
+- Manuel José Rafel
